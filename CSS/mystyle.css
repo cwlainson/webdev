@@ -1,0 +1,7 @@
+body {
+    background-color: rgb(25, 169, 218)
+}
+h1, h2, p, tr, td, form  { 
+    color: white;
+    margin-left: 20px;
+}
